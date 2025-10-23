@@ -4,35 +4,21 @@ ATProto Science is about using ATProto for science applications, such as publish
 
 ## What is this template?
 
-This template serves as a foundation for:
-- Publishing your Obsidian vault as a website
-- Creating a new markdown-based website from scratch
-- Building documentation sites, blogs, or personal websites
+Examples of some themes we’re interested include:
 
-## Getting Started
+- Exploring the use of ATProto for new kinds of science publishing and communication (such as Nanopublications or Discourse Graphs)
+- New kinds of social networks for researchers (like Cosmik),
+- Building better research feeds on Bluesky (like Paper Skygest)
+- AI for science on ATProto (such as https://hypgen.ai/)
+- Tools for thought (such as https://groundmist.xyz/)
+- Hosting science infrastructure on ATProto
 
-You can use this template in two main ways:
-
-### 1. Publishing Your Obsidian Vault
-
-If you have an existing Obsidian vault:
-1. Install Obsidian Flowershow plugin
-2. Adjust the configuration
-3. Publish you vault
-
-Your Obsidian links, callouts, and other features will be preserved and rendered beautifully on the web.
-
-### 2. Creating a New Site
-
-If you're starting from scratch:
-1. Use this template as your base
-2. Modify the content as you wish using an editor of your choise (or GitHub UI)
-3. Add your own markdown files
+And generally understanding what tools and services would be useful for research communities on Bluesky/ATProto.
 
 ## Learn More
 
-For more information about Flowershow and how to customize this template, visit:
-- [Flowershow Documentation](https://flowershow.app/docs)
+For more information about ATProto.Science:
+- [Join us on BlueSky](http://bsky.app/profile/atproto.science)
 
 ---
 
