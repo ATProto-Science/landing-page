@@ -2,7 +2,7 @@
 
 ATProto Science is about using ATProto for science applications, such as publishing, curation, data sharing or social discourse around research.
 
-## What is this template?
+## What we do
 
 Examples of some themes we’re interested include:
 
