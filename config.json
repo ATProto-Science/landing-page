@@ -1,4 +1,8 @@
 {
   "showSidebar": true,
-  "favicon": "/assets/at-sci-gray-64.png"
+  "favicon": "/assets/at-sci-gray-64.png",
+  "nav": {
+    "logo": "/assets/at-sci-gray-64.png",
+    "title": "ATProto Science"
+  }
 }
