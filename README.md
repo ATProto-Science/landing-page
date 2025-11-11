@@ -4,7 +4,7 @@ ATProto Science is an initiative aimed at fostering an ecosystem for science on 
 
 ## News
 
-- We're organizing an ATProto x Science workshop at the [March 26-29 ATMosphere Conf](https://news.atmosphereconf.org/3m3cwwz4mpk2j) in Vancouver - stay tuned & follow us for more details!
+- We're organizing an ATProto x Science workshop at the [March 26-29 ATmosphere Conf](https://news.atmosphereconf.org/3m3cwwz4mpk2j) in Vancouver - stay tuned & follow us for more details!
 
 
 ## Themes & Interests
