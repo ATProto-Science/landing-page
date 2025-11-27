@@ -45,3 +45,4 @@ For more information about ATProto.Science:
 ATProto Science is an initiative led by:
 - [Ronen Tamari](http://ronentk.me/) ([Cosmik Network](https://cosmik.network/))
 - [Torsten Goerke](https://bsky.app/profile/tgoerke.bsky.social)
+- [Barry Prendergast](https://links.renderg.host/)
