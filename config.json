@@ -1,5 +1,6 @@
 {
   "showSidebar": true,
+  "showToc": false,
   "favicon": "/assets/at-sci-gray-64.png",
   "nav": {
     "logo": "/assets/at-sci-gray-64.png",
